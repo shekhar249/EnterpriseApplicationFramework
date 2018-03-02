@@ -7,7 +7,7 @@ Goal is to develop a working framework for commom enterprise applcaitions using 
 
 1. Easy to setup
 2. Easy to Adapt
-3. Should support rapid application development in fast spaced enerprise
+3. Should support rapid application development in fast spaced enterprise
 4. More focus on building technology infrastructure for enterprise application
 5. Buidlnig this framework by using existing proved frameworks for differnt modules but still having flexibility to replace them
    Example for existing framweworks : Enterprise Library,Unity,Log4Net, Avalon for UI etc
