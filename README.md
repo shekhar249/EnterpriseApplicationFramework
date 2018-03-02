@@ -1,4 +1,4 @@
-# EnterpriseApplicationFramework
+# Enterprise Application Framework
 
 A working boilerplate code for Enterprise Application
 Goal is to develop a working framework for commom enterprise applcaitions using WCF/.net core as server side and WPF as desktop front end to begin with.
