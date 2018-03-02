@@ -21,6 +21,4 @@ Goal is to develop a working framework for commom enterprise applcaitions using 
 2. Easy integration with middleware messaging application like EMS / Websphere MQ
 3. ...
 
-[Build status] (https://ci.appveyor.com/api/projects/status/github/shekhar249/EnterpriseApplicationFramework)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/github/shekhar249/EnterpriseApplicationFramework)](https://ci.appveyor.com/api/projects/status/github/shekhar249/EnterpriseApplicationFramework) 
+(https://ci.appveyor.com/api/projects/status/github/shekhar249/EnterpriseApplicationFramework) 
