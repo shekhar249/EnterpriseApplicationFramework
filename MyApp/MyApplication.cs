@@ -11,7 +11,7 @@ namespace MyApp
 
         public int Add(int a,int b)
         {
-            return a + b-1;
+            return a + b;
         }
     }
 }
