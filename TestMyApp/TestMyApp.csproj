@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestService\MyApp.csproj" />
+    <ProjectReference Include="..\MyApp\MyApp.csproj" />
   </ItemGroup>
 
 </Project>
