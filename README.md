@@ -10,9 +10,9 @@ Goal is to develop a working framework for commom enterprise applcaitions using 
 2. Easy to Adapt
 3. Should support rapid application development in fast spaced enterprise
 4. More focus on building technology infrastructure for enterprise application
-5. Buidlnig this framework by using existing proved frameworks for differnt modules but still having flexibility to replace them
-   Example for existing framweworks : Enterprise Library,Unity,Log4Net, Avalon for UI etc
-4. Whhen a application team adapts this framewrok developers can just focus on building their classses for business
+5. Building framework using existing proved frameworks for different modules but still having flexibility to replace them
+   Example of existing frameworks : Enterprise Library,Unity,Log4Net, Avalon for UI etc
+4. When a application team adapts this framework developers can just focus on building their classses for business
 
 
 
