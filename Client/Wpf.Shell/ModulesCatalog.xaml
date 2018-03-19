@@ -1,0 +1,17 @@
+﻿<Modularity:ModuleCatalog xmlns:Modularity="clr-namespace:Prism.Modularity;assembly=Prism.Wpf"
+                           xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    
+    <Modularity:ModuleInfoGroup InitializationMode="WhenAvailable">
+        <Modularity:ModuleInfo  Ref="file://UI.Infrastructure.dll" ModuleName="Infrastructure" ModuleType="UI.Infrastructure.InfrastructureModule, UI.Infrastructure" />
+        <Modularity:ModuleInfo Ref="file://UI.Navigation.dll" ModuleName="Navigation" ModuleType="UI.Navigation.NavigationModule, UI.Navigation" />
+        <Modularity:ModuleInfo Ref="file://UI.Top.dll" ModuleName="Top" ModuleType="UI.Top.TopModule, UI.Top" />
+        <Modularity:ModuleInfo Ref="file://UI.Middle.dll" ModuleName="Middle" ModuleType="UI.Middle.MiddleModule, UI.Middle" />
+        <Modularity:ModuleInfo Ref="file://UI.Bottom.dll" ModuleName="Bottom" ModuleType="UI.Bottom.BottomModule, UI.Bottom" />
+        
+        <Modularity:ModuleInfo Ref="file://UI.TradeEntry.dll" ModuleName="TradeEntry" ModuleType="UI.TradeEntry.TradeEntryModule, UI.TradeEntry">
+            <Modularity:ModuleInfo.DependsOn>
+                <sys:String>Infrastructure</sys:String>
+            </Modularity:ModuleInfo.DependsOn>
+        </Modularity:ModuleInfo>
+    </Modularity:ModuleInfoGroup>
+</Modularity:ModuleCatalog>
