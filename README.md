@@ -24,3 +24,4 @@ Goal is to develop a working framework for common enterprise applications using 
 
 [![Build status](https://ci.appveyor.com/api/projects/status/72207ft2wjek6hrl?svg=true)](https://ci.appveyor.com/project/shekhar249/enterpriseapplicationframework-m7pa2)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/72u6071df8ouq14g/branch/master?svg=true)](https://ci.appveyor.com/project/shekhar249/enterpriseapplicationframework/branch/master)
