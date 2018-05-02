@@ -13,6 +13,8 @@ Goal is to develop a working framework for common enterprise applications using 
 5. Building framework using existing proved frameworks for different modules but still having flexibility to replace them
    Example of existing frameworks : Enterprise Library,Unity,Log4Net, Avalon for UI etc
 4. When an application team adapts this framework developers can just focus on building their classses for business
+5. When an application screen / application service changes it should not have any impact on other applications hosted in container
+   So Modules getting added /modified are the only modules getting released 
 
 
 
