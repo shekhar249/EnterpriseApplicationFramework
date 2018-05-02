@@ -8,7 +8,7 @@
              mc:Ignorable="d" 
               xmlns:xcad="http://schemas.xceed.com/wpf/xaml/avalondock"
           xmlns:s="clr-namespace:System;assembly=mscorlib"
-        Title="MainWindow" Height="900"   Width="1600" >
+        Title="Apps Container" Height="900"   Width="1600" >
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
