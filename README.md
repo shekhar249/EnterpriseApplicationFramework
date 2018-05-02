@@ -21,7 +21,7 @@ Goal is to develop a working framework for common enterprise applications using 
 ### Why WPF as desktop front end: ###
 1. Rapid front end application development 
 2. Easy integration with middleware messaging application like EMS / Websphere MQ
-3. ...
+3. Easy modular development with PRISM & feature rich UI development capabilities
 
 
 [![Build status](https://ci.appveyor.com/api/projects/status/72207ft2wjek6hrl?svg=true)](https://ci.appveyor.com/project/shekhar249/enterpriseapplicationframework-m7pa2)
