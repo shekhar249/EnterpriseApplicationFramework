@@ -16,7 +16,7 @@ Goal is to develop a working framework for common enterprise applications using 
 
 
 
-### Why WPF as desktop frontend: ###
+### Why WPF as desktop front end: ###
 1. Rapid front end application development 
 2. Easy integration with middleware messaging application like EMS / Websphere MQ
 3. ...
