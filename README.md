@@ -21,5 +21,6 @@ Goal is to develop a working framework for common enterprise applications using 
 2. Easy integration with middleware messaging application like EMS / Websphere MQ
 3. ...
 
-[![Build status](https://ci.appveyor.com/api/projects/status/github/shekhar249/enterpriseapplicationframework-m7pa2) ](https://ci.appveyor.com/project/shekhar249/enterpriseapplicationframework-m7pa2) 
+
+[![Build status](https://ci.appveyor.com/api/projects/status/72207ft2wjek6hrl?svg=true)](https://ci.appveyor.com/project/shekhar249/enterpriseapplicationframework-m7pa2)
 
